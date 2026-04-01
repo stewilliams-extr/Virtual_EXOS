@@ -21,7 +21,7 @@ Virtual Switch Engine (EXOS) installations are not officially supported by GTAC 
 * [GNS3 Example Projects](gns3_projects/README.md)
 
 ## Switch Engine (EXOS) Guides
-* [Switch Engine (EXOS) Documentation](https://supportdocs.extremenetworks.com/support/documentation/switch-engine-32-7-2/)
+* [Switch Engine (EXOS) Documentation](https://supportdocs.extremenetworks.com/support/documentation/switch-engine-33-6-1/)
 
 
 
@@ -29,6 +29,7 @@ Virtual Switch Engine (EXOS) installations are not officially supported by GTAC 
 * [33.1.1 ISO](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.1.1.31.iso) - md5sum: 9b1d0914407fcb952559b235db8cc0ec
 * [32.7.2.19 ISO](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_32.7.2.19.iso) - md5sum: d39e4a6e6d6ebf65aa2e632b610ab8e3
 * [32.6.3 ISO](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_v32.6.3.126.iso) - md5sum: f8768323741ce95d03c5784024e7e45f
+* [33.6.1 ISO](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.6.1.14.iso) - md5sum: 2a849967e050cd44c30dc18b21ce6aa0
 
 
 
@@ -36,6 +37,7 @@ Virtual Switch Engine (EXOS) installations are not officially supported by GTAC 
 * [33.1.1 xos](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.1.1.31.xos) - md5sum: c53d020ec0b878bd53da5d7b17b94f71
 * [32.7.2.19 xos](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_32.7.2.19.xos) - md5sum: cf632b97b2ccb6f844b07c75f3a80c1d
 * [32.6.3 xos](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_v32.6.3.126.xos) - md5sum: 21764579d64176947e59c495da18368d
+* [33.6.1 xos](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.6.1.14.xos) - md5sum: 2dd5d1cfd88d0de4969785b5ace8d97b
 
 
 ## .qcow2 files for GNS3
@@ -43,6 +45,7 @@ Virtual Switch Engine (EXOS) installations are not officially supported by GTAC 
 * [EXOS-VM_33.1.1.31.qcow2](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.1.1.31.qcow2) - md5sum: 75a5422e040af92cefd238d3613a66bc
 * [EXOS-VM_32.7.2.19.qcow2](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_32.7.2.19.qcow2) - md5sum: eba580a2e18d2a9cc972c9ece8917ea8
 * [EXOS-VM_v32.6.3.126.qcow2](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_v32.6.3.126.qcow2) - md5sum: 5856b6c427bd605fe1c7adb6ee6b2659
+* [EXOS-VM_33.6.1.14.qcow2](https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.6.1.14.qcow2) - md5sum: 01ea4bea3f321f91910565bb223a2540
 
 
 # Support

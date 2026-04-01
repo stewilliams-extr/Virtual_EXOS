@@ -17,17 +17,24 @@
     "qemu": {
         "adapter_type": "rtl8139",
         "adapters": 13,
-        "ram": 512,
+        "ram": 1024,
         "hda_disk_interface": "ide",
         "arch": "x86_64",
         "console_type": "telnet",
         "boot_priority": "dc",
         "kvm": "allow",
-        "options": "-cpu host"
+        "options": "-nographic -cpu host -enable-kvm"
     },
     
     "images": [
 
+		{
+            "filename": "EXOS-VM_33.6.1.14.qcow2",
+            "version": "33.6.1.14",
+            "md5sum": "01ea4bea3f321f91910565bb223a2540",
+            "filesize": 278647296,
+            "direct_download_url": "https://akamai-ep.extremenetworks.com/Extreme_P/github-en/Virtual_EXOS/EXOS-VM_33.6.1.14.qcow2"
+        },
 		{
             "filename": "EXOS-VM_33.1.1.31.qcow2",
             "version": "33.1.1.31",
@@ -55,6 +62,12 @@
     "versions": [
 
 
+        {
+            "name": "33.6.1.14",
+            "images": {
+                "hda_disk_image": "EXOS-VM_33.6.1.14.qcow2"
+			}
+        },
         {
             "name": "33.1.1.31",
             "images": {
